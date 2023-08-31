@@ -24,6 +24,6 @@
   <a href="https://www.linkedin.com/in/thiago-alves-74927a241" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake gif](https://github.com/ThIago-Dev/ThIago-Dev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Thiago-MA97/Thiago-MA97/blob/output/github-contribution-grid-snake.svg)
 
 
